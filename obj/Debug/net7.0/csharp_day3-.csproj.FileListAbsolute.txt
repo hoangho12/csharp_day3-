@@ -1,0 +1,15 @@
+E:\SUMMER_2023\C#\csharp_day3-\bin\Debug\net7.0\csharp_day3-.exe
+E:\SUMMER_2023\C#\csharp_day3-\bin\Debug\net7.0\csharp_day3-.deps.json
+E:\SUMMER_2023\C#\csharp_day3-\bin\Debug\net7.0\csharp_day3-.runtimeconfig.json
+E:\SUMMER_2023\C#\csharp_day3-\bin\Debug\net7.0\csharp_day3-.dll
+E:\SUMMER_2023\C#\csharp_day3-\bin\Debug\net7.0\csharp_day3-.pdb
+E:\SUMMER_2023\C#\csharp_day3-\obj\Debug\net7.0\csharp_day3-.csproj.AssemblyReference.cache
+E:\SUMMER_2023\C#\csharp_day3-\obj\Debug\net7.0\csharp_day3-.GeneratedMSBuildEditorConfig.editorconfig
+E:\SUMMER_2023\C#\csharp_day3-\obj\Debug\net7.0\csharp_day3-.AssemblyInfoInputs.cache
+E:\SUMMER_2023\C#\csharp_day3-\obj\Debug\net7.0\csharp_day3-.AssemblyInfo.cs
+E:\SUMMER_2023\C#\csharp_day3-\obj\Debug\net7.0\csharp_day3-.csproj.CoreCompileInputs.cache
+E:\SUMMER_2023\C#\csharp_day3-\obj\Debug\net7.0\csharp_day3-.dll
+E:\SUMMER_2023\C#\csharp_day3-\obj\Debug\net7.0\refint\csharp_day3-.dll
+E:\SUMMER_2023\C#\csharp_day3-\obj\Debug\net7.0\csharp_day3-.pdb
+E:\SUMMER_2023\C#\csharp_day3-\obj\Debug\net7.0\csharp_day3-.genruntimeconfig.cache
+E:\SUMMER_2023\C#\csharp_day3-\obj\Debug\net7.0\ref\csharp_day3-.dll
